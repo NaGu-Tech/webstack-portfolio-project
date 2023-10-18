@@ -1,12 +1,13 @@
-# Building and Deploying an OpenAI Article Summarizer Using 
-![AI Summarizer]
+# Building and Deploying an OpenAI Article Summarizer
+
 <image
 src="src\assets\AI SUMMARIZER.jpeg">
 
 ## Introduction
-If you're a solo developer in 2023, you have the power to build robust AI software startups! Watch this 1-hour video and make an Article Summarizer Application using OpenAI's GPT model.
+If you're a solo developer in 2023, I recommend the use of Next.js 13.
+try out it's powerful ability and easy integration with OpenAI.
  
-Alongside building this application, you'll also learn how to:
+Alongside building this application, I also learn how to:
 - setup a ReactJS project using Vite
 - create a responsive, beautiful UI/UX with a nice touch of glass morphism using Tailwind CSS
 - make advanced RTK query API requests that fire on condition
