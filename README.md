@@ -1,5 +1,7 @@
 # Building and Deploying an OpenAI Article Summarizer Using 
-![AI Summarizer](https://www.srimax.com/2020/01/01/importance-of-artificial-intelligence/importance-of-artificial-intelligence/)
+![AI Summarizer]
+<image
+src="src\assets\AI SUMMARIZER.jpeg">
 
 ## Introduction
 If you're a solo developer in 2023, you have the power to build robust AI software startups! Watch this 1-hour video and make an Article Summarizer Application using OpenAI's GPT model.
